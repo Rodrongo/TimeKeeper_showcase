@@ -13,12 +13,14 @@ Péndulo          |  Bloques  | Contador
 :-------------------------:|:-------------------------:|:-------------------------:
 <img align="center" width="160"  src="Media/Metronome Tab/oscillator.gif">  |  <img align="center" width="160"  src="Media/Metronome Tab/blocks.gif"> | <img align="center" width="160"  src="Media/Metronome Tab/counter.gif"> 
 
-<img align="center" width="160"  src="Media/Metronome Tab/oscillator.gif">
-<img align="center" width="160"  src="Media/Metronome Tab/blocks.gif">
-<img align="center" width="160"  src="Media/Metronome Tab/counter.gif"> 
 
 
 ## Modifica el tempo (incluso mientras el metrónomo está activo)
+
+Con un slider          |  Rotando el dial  | Escribiendo directamente
+:-------------------------:|:-------------------------:|:-------------------------:
+<img align="center" width="160"  src="Media/Metronome Tab/tempo_slider.gif">  |  <img align="center" width="160"  src="Media/Metronome Tab/tempo_wheel.gif"> | <img align="center" width="160"  src="Media/Metronome Tab/tempo_textfield.gif">
+
 
 Mediante el slider...
 
