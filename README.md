@@ -15,7 +15,7 @@ Péndulo          |  Bloques  | Contador
 
 
 
-### Modifica el tempo (incluso mientras el metrónomo está activo)
+### Modifica el tempo (en tiempo real)
 
 Con un slider          |  Rotando el dial  | Escribiendo directamente
 :-------------------------:|:-------------------------:|:-------------------------:
@@ -23,7 +23,7 @@ Con un slider          |  Rotando el dial  | Escribiendo directamente
 
 
 
-### Modifica el compás (incluso mientras el metrónomo está activo)
+### Modifica el compás (en tiempo real)
 
 <img align="center" width="160"  src="Media/Metronome Tab/number_of_beats.gif">
 
