@@ -9,6 +9,10 @@ Una app de metrónomo para baterías.
 
 ## Diferentes animaciones para el metrónomo
 
+Péndulo          |  Bloques  | Contador
+:-------------------------:|:-------------------------:|:-------------------------:
+<img align="center" width="160"  src="Media/Metronome Tab/oscillator.gif">  |  <img align="center" width="160"  src="Media/Metronome Tab/blocks.gif"> | <img align="center" width="160"  src="Media/Metronome Tab/counter.gif"> 
+
 <img align="center" width="160"  src="Media/Metronome Tab/oscillator.gif">
 <img align="center" width="160"  src="Media/Metronome Tab/blocks.gif">
 <img align="center" width="160"  src="Media/Metronome Tab/counter.gif"> 
