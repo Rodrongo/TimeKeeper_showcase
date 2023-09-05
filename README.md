@@ -29,8 +29,6 @@ Con un slider          |  Rotando el dial  | Escribiendo directamente
 
 ## Video showcase
 
-https://github.com/Rodrongo/TimeKeeper_showcase/blob/706dda6eb92cdc540be2e533233365ad44e9f994/Media/Metronome%20Tab/metronome_tab_showcase_compressed.mp4
-
 <video width="300" controls>
   <source src="Media/Metronome Tab/metronome_tab_showcase.mov" type="video/mp4">
 </video>
