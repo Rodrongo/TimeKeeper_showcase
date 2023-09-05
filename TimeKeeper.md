@@ -38,6 +38,6 @@ O escribiéndolo directamente...
 
 ## Video showcase
 
-<video width="300" controls>
-  <source src="Media/Metronome Tab/metronome_tab_showcase.mov" type="video/mp4">
-</video>
+https://github.com/Rodrongo/TimeKeeper_showcase/assets/106756997/f73a2b74-808a-4521-aae4-cfb00a5bc565
+
+
