@@ -26,7 +26,6 @@ Con un slider          |  Rotando el dial  | Escribiendo directamente
 ## Modifica el compás (incluso mientras el metrónomo está activo)
 
 <img align="center" width="160"  src="Media/Metronome Tab/number_of_beats.gif">
-</br></br>
 
 ## Video showcase
 
