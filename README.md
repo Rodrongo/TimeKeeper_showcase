@@ -2,12 +2,12 @@
 
 Una app de metrónomo para baterías.
 
-# Metronome tab
+## Metronome tab
 
 <img align="center" width="200"  src="Media/Metronome Tab/metronome_tab_dark.jpeg"> <img align="center" width="200"  src="Media/Metronome Tab/metronome_tab_light.jpeg">
 
 
-## Diferentes animaciones para el metrónomo
+### Diferentes animaciones para el metrónomo
 
 Péndulo          |  Bloques  | Contador
 :-------------------------:|:-------------------------:|:-------------------------:
@@ -15,7 +15,7 @@ Péndulo          |  Bloques  | Contador
 
 
 
-## Modifica el tempo (incluso mientras el metrónomo está activo)
+### Modifica el tempo (incluso mientras el metrónomo está activo)
 
 Con un slider          |  Rotando el dial  | Escribiendo directamente
 :-------------------------:|:-------------------------:|:-------------------------:
@@ -23,11 +23,11 @@ Con un slider          |  Rotando el dial  | Escribiendo directamente
 
 
 
-## Modifica el compás (incluso mientras el metrónomo está activo)
+### Modifica el compás (incluso mientras el metrónomo está activo)
 
 <img align="center" width="160"  src="Media/Metronome Tab/number_of_beats.gif">
 
-## Video showcase
+### Video showcase
 
 <video width="300" controls>
   <source src="Media/Metronome Tab/metronome_tab_showcase.mov" type="video/mp4">
