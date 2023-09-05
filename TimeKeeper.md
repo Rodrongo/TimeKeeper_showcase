@@ -22,20 +22,6 @@ Con un slider          |  Rotando el dial  | Escribiendo directamente
 <img align="center" width="160"  src="Media/Metronome Tab/tempo_slider.gif">  |  <img align="center" width="160"  src="Media/Metronome Tab/tempo_wheel.gif"> | <img align="center" width="160"  src="Media/Metronome Tab/tempo_textfield.gif">
 
 
-Mediante el slider...
-
-<img align="center" width="160"  src="Media/Metronome Tab/tempo_slider.gif">
-</br></br>
-
-Rotando el dial...
-
-<img align="center" width="160"  src="Media/Metronome Tab/tempo_wheel.gif">
-</br></br>
-
-O escribiéndolo directamente...
-
-<img align="center" width="160"  src="Media/Metronome Tab/tempo_textfield.gif">
-</br></br>
 
 ## Modifica el compás (incluso mientras el metrónomo está activo)
 
