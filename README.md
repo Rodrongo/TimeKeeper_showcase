@@ -1,6 +1,6 @@
 # Time Keeper 
 
-Una app de metrónomo para baterías.
+Una app de metrónomo para baterías desarrollada en SwiftUI.
 
 - [Metronome Tab](#metronome-tab)
 - [Fills & Rolls Tab](#fills--rolls-tab)
