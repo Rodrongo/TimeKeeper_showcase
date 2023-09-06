@@ -55,6 +55,7 @@ Cada nota con la mano izquierda (L) o derecha (R) puede ir acentuada o ser una n
 <img align="center" width="200"  src="Media/Fills&Rolls Tab/ghost_or_accented.gif"><br> 
 
 También puedes incluir notas con el bombo o descansos:
+
 <img align="center" width="200"  src="Media/Fills&Rolls Tab/kick_rest.gif">
 
 ## Próximas features
